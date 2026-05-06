@@ -8,11 +8,11 @@ from aiohttp import web
 
 # --- CONFIG ---
 API_ID = 30522731
-API_HASH = "4068108e6b390d7b3ab8d7316cc63c78"
-BOT_TOKEN = "8338949162:AAHBQGNf-LgZW4-OWQEIceAjLVOTQ0h0u54"
-BIN_CHANNEL = -1003920916863
+API_HASH = "_"
+BOT_TOKEN = "_"
+BIN_CHANNEL = -ID
 PORT = 8000
-VPS_IP = "hasara.mrxs.shop" 
+VPS_IP = "Doamin or IP" 
 DB_FILE = "database.json"
 P_THUMB = "https://github.com/MistaX2/vps/blob/main/photo_2026-05-04_22-32-40.jpg?raw=true"
 
