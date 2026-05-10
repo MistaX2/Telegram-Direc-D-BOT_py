@@ -7,7 +7,7 @@ from pyrogram import Client, filters, idle
 from aiohttp import web
 
 # --- CONFIG ---
-API_ID = 30522731
+API_ID = ID
 API_HASH = "_"
 BOT_TOKEN = "_"
 BIN_CHANNEL = -ID
